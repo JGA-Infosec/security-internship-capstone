@@ -3,13 +3,13 @@
   <img src="https://img.shields.io/badge/Deliverables-Technical_Reports_%26_Executive_Briefing-252B27?style=for-the-badge&labelColor=407849" />
 </p>
 
-# 📊 Enterprise Security Assessment & Capstone
+## 📊 Enterprise Security Assessment & Capstone
 **Tools Utilized:** `Burp Suite`, `Nmap`  
 **Frameworks:** `OWASP Top 10`, `OWASP WSTG`
 
 > ⚠️ **CONFIDENTIALITY NOTICE:** The documentation provided in this repository was generated as part of a simulated, controlled training environment during a Cyber Security Risk Management internship. No live enterprise infrastructure or confidential client data is included in these deliverables.
 
-## Project Overview
+#### Project Overview
 This repository contains the final deliverables from my risk management internship, demonstrating a full-cycle security assessment. It includes both the granular technical analysis required by engineering teams and the high-level strategic briefing required by management.
 
 ---
