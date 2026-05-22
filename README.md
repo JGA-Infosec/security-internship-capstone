@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Deliverables-Technical_Reports_%26_Executive_Briefing-252B27?style=for-the-badge&labelColor=407849" />
 </p>
 
-## 📊 Enterprise Security Assessment & Capstone
+# 📊 Enterprise Security Assessment & Capstone
 **Tools Utilized:** `Burp Suite`, `Nmap`  
 **Frameworks:** `OWASP Top 10`, `OWASP WSTG`
 
@@ -14,14 +14,14 @@ This repository contains the final deliverables from my risk management internsh
 
 ---
 
-### Deliverable 01: Executive Briefing Presentation
+## Deliverable 01: Executive Briefing Presentation
 This presentation synthesizes the core methodologies, threat models, and vulnerability frameworks I mastered during the internship. It is designed to translate complex security concepts into actionable business intelligence for non-technical stakeholders.
 
 * [View the Executive Briefing Presentation (PDF)](Cybersecurity_Internship_Overview.pdf)
 
 ---
 
-### Deliverable 02: Technical Penetration Test Report
+## Deliverable 02: Technical Penetration Test Report
 This assessment focused on identifying vulnerabilities that could affect the confidentiality, integrity, and availability of an enterprise web application. Methodological testing revealed several critical exposure points, including unencrypted credential transmission, DOM-based Cross-Site Scripting (XSS), and severe authorization bypass flaws.
 
 #### Highlighted Finding: Transfer Funds Parameter Tampering
@@ -35,7 +35,7 @@ This assessment focused on identifying vulnerabilities that could affect the con
 
 ---
 
-### Deliverable 03: Network Perimeter & CVE Analysis
+## Deliverable 03: Network Perimeter & CVE Analysis
 While the primary assessment covered a broad scope, this supplemental report provides a deep-dive technical analysis of the network perimeter. It breaks down raw Nmap terminal output, evaluates exposed services (such as SSH, HTTP, and Nping), and manually maps exposed ports to specific Common Vulnerabilities and Exposures (CVEs) to determine true risk.
 
 * [📄 View the Network Perimeter Analysis (PDF)](Network_Perimeter_Analysis.pdf)
