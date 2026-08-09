@@ -22,7 +22,7 @@ This presentation synthesizes the core methodologies, threat models, and vulnera
 ---
 
 ## Deliverable 02: Technical Penetration Test Report
-This assessment focused on identifying vulnerabilities that could affect the confidentiality, integrity, and availability of an enterprise web application. Methodological testing revealed several critical exposure points, including unencrypted credential transmission, DOM-based Cross-Site Scripting (XSS), and severe authorization bypass flaws.
+This assessment focused on identifying vulnerabilities that could affect the confidentiality, integrity, and availability of an enterprise web application. Methodological testing revealed several critical exposure points, including unencrypted credential transmission, Reflected Cross-Site Scripting (XSS), and severe authorization bypass flaws.
 
 #### Highlighted Finding: Transfer Funds Parameter Tampering
 **Risk Score:** Medium (18) | **Asset:** 3 | **Impact:** 3 | **Probability:** 2
